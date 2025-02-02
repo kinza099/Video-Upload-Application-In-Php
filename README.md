@@ -78,7 +78,9 @@ VIDEO UPLOAD/
 
 ## Contact
 
-For questions or feedback, please reach out via the **Contact** page of the application.
+For any queries or suggestions, please contact:
+- **Email:** kinzapython@gmail.com
+
 
 ## License
 
