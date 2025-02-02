@@ -38,7 +38,8 @@ VIDEO UPLOAD/
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/kinza099/Video-Upload-Application-In-Php.git
+
    ```
 2. Place the project folder in your web server's root directory (e.g., `htdocs` for XAMPP).
 3. Create a folder named `videos` in the project directory to store uploaded videos.
@@ -62,13 +63,18 @@ VIDEO UPLOAD/
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![image](https://github.com/user-attachments/assets/64d058e4-f3d9-459f-96c8-0fa5c1aed919)
 
 ### Add Video Page
-![Add Video Page](screenshots/add_video_page.png)
+![image](https://github.com/user-attachments/assets/957ed47c-1da2-4274-933f-6fe520925372)
 
-### Edit Video Page
-![Edit Video Page](screenshots/edit_video_page.png)
+### About Us Page
+![image](https://github.com/user-attachments/assets/5ff79868-24d8-49d2-b1d8-5fee01873046)
+
+
+### Contact Us page
+![image](https://github.com/user-attachments/assets/057c95a8-976c-4af9-b023-0a95419f9f4b)
+
 
 ## Contact
 
